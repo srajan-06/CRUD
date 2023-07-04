@@ -1,5 +1,5 @@
 # CRUD
-Auctopus Assignment on CRUD functionality using Django rest framework, Ajax, PostgreSql, Postman, HTML, CSS, Bootstrap
+CRUD functionality using Django-REST framework, Ajax, PostgreSql, Postman, HTML, CSS, Bootstrap
 
 
 ![Screenshot (309)](https://github.com/srajan-06/CRUD/assets/94606073/cf5d2a81-0c25-4d3f-8bbb-e15dd613846f)
